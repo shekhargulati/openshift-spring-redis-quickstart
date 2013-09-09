@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>Welcome to Blog Application</title>
+    </head>
+    <body>
+
+        $screen_content
+
+        <hr />
+        Copyright &copy 2013 Shekhar Gulati
+    </body>
+</html>
